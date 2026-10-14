@@ -1,0 +1,17 @@
+{
+  "name": "dark-md-v2",
+  "version": "1.0.0",
+  "description": "A powerful WhatsApp MD bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.23",
+    "pino": "^9.0.0"
+  }
+}
